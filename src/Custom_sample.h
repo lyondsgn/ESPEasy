@@ -171,7 +171,7 @@
 // #define USE_SERVO
 
 
-// #define USES_P001   // Switch
+ #define USES_P001   // Switch
 // #define USES_P002   // ADC
 // #define USES_P003   // Pulse
 // #define USES_P004   // Dallas
@@ -204,22 +204,22 @@
 
 // #define USES_P031   // SHT1X
 // #define USES_P032   // MS5611
-// #define USES_P033   // Dummy
+ #define USES_P033   // Dummy
 // #define USES_P034   // DHT12
 // #define USES_P036   // FrameOLED
 // #define USES_P037   // MQTTImport
-// #define USES_P038   // NeoPixel
+ #define USES_P038   // NeoPixel
 // #define USES_P039   // Environment - Thermocouple
 
 // #define USES_P040   // RFID - ID12LA/RDM6300
 // #define USES_P041   // NeoClock
-// #define USES_P042   // Candle
+ #define USES_P042   // Candle
 // #define USES_P043   // ClkOutput
 // #define USES_P044   // P1WifiGateway
 // #define USES_P045   // MPU6050
 // #define USES_P046   // VentusW266
-// #define USES_P047   // I2C_soil_misture
-// #define USES_P048   // Motoshield_v2
+ #define USES_P047   // I2C_soil_misture
+ #define USES_P048   // Motoshield_v2
 // #define USES_P049   // MHZ19
 
 // #define USES_P050   // TCS34725 RGB Color Sensor with IR filter and White LED
@@ -289,14 +289,14 @@
 // #define USES_C005   // Home Assistant (openHAB) MQTT
 // #define USES_C006   // PiDome MQTT
 // #define USES_C007   // Emoncms
-// #define USES_C008   // Generic HTTP
+ #define USES_C008   // Generic HTTP
 // #define USES_C009   // FHEM HTTP
-// #define USES_C010   // Generic UDP
-// #define USES_C011   // Generic HTTP Advanced
-// #define USES_C012   // Blynk HTTP
-// #define USES_C013   // ESPEasy P2P network
+ #define USES_C010   // Generic UDP
+ #define USES_C011   // Generic HTTP Advanced
+ #define USES_C012   // Blynk HTTP
+ #define USES_C013   // ESPEasy P2P network
 // #define USES_C014   // homie 3 & 4dev MQTT
-// #define USES_C015   // Blynk
+ #define USES_C015   // Blynk
 // #define USES_C016   // Cache controller
 // #define USES_C017   // Zabbix
 // #define USES_C018   // TTN/RN2483
